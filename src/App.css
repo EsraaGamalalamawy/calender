@@ -1,0 +1,26 @@
+body{
+    overflow: hidden;
+}
+.cal{
+    position: relative;
+}
+.out{
+    width: fit-content;
+    position: relative;
+}
+.cele{
+    box-shadow: none;
+}
+.ctoday{
+    background-color: #FFC107;
+}
+.Calendar__monthText{
+    font-size: 25px;
+    color: #007580;
+    font-weight: bold;
+}
+.Calendar__yearText{
+    font-size: 25px;
+    color: #007580;
+    font-weight: bold;
+}
